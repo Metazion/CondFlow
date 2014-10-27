@@ -430,7 +430,6 @@ print(condGroupAl:IsCan(INDEX_FW))
 print("Display: " .. condGroupAl:GetDisplay())
 print("SuccessRate: " .. condGroupAl:GetSuccessRate())
 
-
 ResetConditions(STOVE_BUFF)
 
 condGroupBY:AddCond(condEQ)
