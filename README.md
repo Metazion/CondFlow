@@ -1,1 +1,0 @@
-A condition flow sample in lua.
